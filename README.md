@@ -1,2 +1,6 @@
-# Angular-e-RxJS
-Um dos principais métodos e funções utilizados com frequência durante projetos Angular.
+RxJS e Angular<br/>
+
+O Angular é um framework que permite construir aplicações profissionais e robustas. Parte desse poder vem das ferramentas e bibliotecas que o compõe. E uma das mais poderosas e versáteis é o RxJS.
+
+01 - Obervables<br/>
+> - 

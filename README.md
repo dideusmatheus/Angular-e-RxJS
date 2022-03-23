@@ -14,5 +14,13 @@ O **Angular** é um _framework_ que permite construir aplicações profissionais
   - *Tap*: ele também vai receber uma função e essa função, ela tem como parâmetro o (valor) que está sendo enviado, ao contrario do operador map o tap não altera    o         objeto, o fluxo.
   - *Pluck*: Essa operação de extrair um atributo de um objeto, para se trabalhar com ele, é tão comum que a equipe do RxJS criou um operador só para isso, o pluck. Esse       operador não recebe uma função, ele recebe uma string, que é o nome da propriedade que eu quero extrair do objeto que eu estou recebendo.
   - *Unsubscribe*:
-  - *Async pipe*:
+  - *Async pipe*: Com essa instrução, o Angular irá se inscrever nesse Observable, passar o seu conteúdo para a variável Ações e quando o componente for encerrado, o       framework cuida para fazer o Unsubscribe do Observable. Ele cuida de tudo para nós, sozinho.<br/>
+
+## 03 - operadores de fluxo<br/>
+  - *SwitchMap*:
+  - *Merge*:
+
+
+
+## 04 - Operadores de filtro<br/>
 
